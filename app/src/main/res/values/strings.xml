@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Atividade2</string>
+    <string name="carregar">Carregar</string>
+    <string name="salvar">Salvar</string>
+    <string name="idade">Idade</string>
+    <string name="endereco">Endereço</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string-array name="sexo">
+        <item>Feminino</item>
+        <item>Masculino</item>
+    </string-array>
+</resources>
